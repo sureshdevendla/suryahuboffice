@@ -1,0 +1,22 @@
+
+body{
+    background: linear-gradient(#DEECC7 0%,#B0D96F 100%);
+}
+#bt1{
+    width: 35px;
+    height: 15px;
+    margin: 15px;
+}
+#bt2{
+    width: 35px;
+    height: 15px;
+    margin: 15px;
+}
+#img1{
+    width: 400px;
+    height: 300px;
+    border-style: double;
+    border-color: #155268;
+    margin: 50px;
+    padding:10px;
+}
